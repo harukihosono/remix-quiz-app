@@ -1,0 +1,27 @@
+/* src/App.css */
+.quizPage {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.questionSection {
+    margin-bottom: 20px;
+}
+
+.questionCount {
+    margin-bottom: 10px;
+}
+
+.questionText {
+    margin-bottom: 20px;
+}
+
+.answerSection button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+    cursor: pointer;
+}
